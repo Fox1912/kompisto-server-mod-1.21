@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "kompisto-server-mod",
+	"version": "${version}",
+	"name": "Kompisto Server Mod",
+	"description": "Adds new resources for us to play with on the Kompisto Server!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://kompisto.com/Home",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/kompisto-server-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.fox.kompistoservermod.KompistoServerMod"
+		],
+		"fabric-datagen": [
+			"net.fox.kompistoservermod.KompistoServerModDataGenerator"
+		],
+		"client": [
+			"net.fox.kompistoservermod.KompistoServerModClient"
+		]
+	},
+	"mixins": [
+		"kompisto-server-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.7",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
