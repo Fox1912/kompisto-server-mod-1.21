@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "kompisto-server-mod:block/chair_wooden" },
+    "facing=south": { "model": "kompisto-server-mod:block/chair_wooden", "y": 180 },
+    "facing=west": { "model": "kompisto-server-mod:block/chair_wooden", "y": 270 },
+    "facing=east": { "model": "kompisto-server-mod:block/chair_wooden", "y": 90 }
+  }
+}

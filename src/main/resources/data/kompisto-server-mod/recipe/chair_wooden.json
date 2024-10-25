@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  S",
+    "WWW",
+    "S S"
+  ],
+    "key": {
+      "W": {
+        "tag": "minecraft:wooden_slabs"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "id": "kompisto-server-mod:chair_wooden",
+      "count": 1
+    }
+}

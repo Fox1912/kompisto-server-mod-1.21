@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "kompisto-server-mod:block/table_wooden" }
+  }
+}

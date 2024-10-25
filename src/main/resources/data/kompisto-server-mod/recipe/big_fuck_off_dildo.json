@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " o ",
+    " o ",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "kompisto-server-mod:pink_silicone_rubber"
+    }
+  },
+  "result": {
+    "id": "kompisto-server-mod:big_fuck_off_dildo",
+    "count": 1
+  }
+}

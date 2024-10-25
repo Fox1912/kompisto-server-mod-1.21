@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " O ",
+    " S "
+  ],
+  "key": {
+    "O": {
+      "item": "kompisto-server-mod:big_fuck_off_dildo"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "kompisto-server-mod:big_fuck_off_dildo_stick",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "kompisto-server-mod:chair_wooden",
+    "kompisto-server-mod:table_wooden",
+    "kompisto-server-mod:wall_trimming_wood",
+    "kompisto-server-mod:wall_trimming_bamboo"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cobblestone_slab"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "kompisto-server-mod:table_stone",
+    "count": 1
+  }
+}

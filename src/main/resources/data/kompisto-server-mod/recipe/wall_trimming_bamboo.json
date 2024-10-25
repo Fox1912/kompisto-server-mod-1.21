@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " S ",
+    " L "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:bamboo_slab"
+    },
+    "L": {
+      "item": "minecraft:stripped_bamboo_block"
+    }
+  },
+  "result": {
+    "id": "kompisto-server-mod:wall_trimming_bamboo",
+    "count": 1
+  }
+}

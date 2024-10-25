@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "kompisto-server-mod:block/big_fuck_off_dildo" },
+    "facing=south": { "model": "kompisto-server-mod:block/big_fuck_off_dildo", "y": 180 },
+    "facing=east": { "model": "kompisto-server-mod:block/big_fuck_off_dildo", "y": 90 },
+    "facing=west": { "model": "kompisto-server-mod:block/big_fuck_off_dildo", "y": 270 }
+  }
+}
